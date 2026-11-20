@@ -17,3 +17,8 @@ No se incluyen entornos virtuales, modelos entrenados ni resultados de evaluaci�
 Copia para portafolio preparada el 20 de noviembre de 2026. Se conservaron los archivos originales en el PC. Se excluyeron el historial Git, credenciales, configuraciones del IDE, dependencias instaladas y datos operativos. Se quitaron las salidas guardadas de notebooks y los bloques INSERT/COPY de SQL. Se requiere configurar y validar el entorno antes de ejecutar; no se ejecutó la aplicación ni se verificaron sus resultados durante este respaldo.
 
 Proyecto recuperado de archivos académicos del propietario de la cuenta. La descripción no acredita autoría exclusiva; al presentarlo deben indicarse las contribuciones personales y grupales. No se añade una licencia nueva.
+
+
+## Publicación y configuración
+
+Código compartido para portafolio profesional. No incluye credenciales del negocio. Preparación de seguridad del 20 de noviembre de 2026; no equivale a una validación de producción.
